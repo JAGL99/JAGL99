@@ -7,13 +7,6 @@
 [![Linkedin: JAGL](https://img.shields.io/badge/-JAGL-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juli%C3%A1n-guzm%C3%A1n-945aa9168/)](https://www.linkedin.com/in/juli%C3%A1n-guzm%C3%A1n-945aa9168/)
 <!-- ![GitHub followers](https://img.shields.io/github/followers/JAGL99?label=Follow&style=social -->
 
-
-### 📫 ¿Do you want have a session with me?
-
-Make an appointment if you want to meet with me and chat about anything you are passionate about, but be sure to describe the agenda.
-
-<a href="https://calendly.com/jagl/" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me....
 
 ```kotlin
